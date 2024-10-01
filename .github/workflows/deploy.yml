@@ -57,6 +57,6 @@ jobs:
         key: ${{ secrets.KEY_TEST }}
         port: 22
         script: |
-          docker stop campeonato
-          docker rm --force campeonato
+          docker stop aposta
+          docker rm --force aposta
           docker run -d -p 8083:8083 --network=rede --name aposta gabrielfmendesm/aposta-ci:${{ github.sha }}
