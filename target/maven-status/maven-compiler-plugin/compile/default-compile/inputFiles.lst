@@ -1,0 +1,11 @@
+/Users/gabrielmendes/Documents/aposta/src/main/java/br/insper/aposta/ApostaApplication.java
+/Users/gabrielmendes/Documents/aposta/src/main/java/br/insper/aposta/aposta/Aposta.java
+/Users/gabrielmendes/Documents/aposta/src/main/java/br/insper/aposta/aposta/ApostaController.java
+/Users/gabrielmendes/Documents/aposta/src/main/java/br/insper/aposta/aposta/ApostaNaoEncontradaException.java
+/Users/gabrielmendes/Documents/aposta/src/main/java/br/insper/aposta/aposta/ApostaRepository.java
+/Users/gabrielmendes/Documents/aposta/src/main/java/br/insper/aposta/aposta/ApostaService.java
+/Users/gabrielmendes/Documents/aposta/src/main/java/br/insper/aposta/common/Erro.java
+/Users/gabrielmendes/Documents/aposta/src/main/java/br/insper/aposta/partida/PartidaNaoEncontradaException.java
+/Users/gabrielmendes/Documents/aposta/src/main/java/br/insper/aposta/partida/PartidaNaoRealizadaException.java
+/Users/gabrielmendes/Documents/aposta/src/main/java/br/insper/aposta/partida/PartidaService.java
+/Users/gabrielmendes/Documents/aposta/src/main/java/br/insper/aposta/partida/RetornarPartidaDTO.java
